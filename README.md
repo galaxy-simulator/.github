@@ -1,4 +1,4 @@
-# .github
+# Galaxy Simulator
 
 After building software for visualizing galaxies during my two week internship at the Center for Astronomy in Heidelberg 2017, I condinued working on the project: First of all, I generated my own data (star positions) and when I had enough of stars, I tried simulating them and had fun playing around with the limitations that arose.
 
